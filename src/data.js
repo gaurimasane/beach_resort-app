@@ -2,6 +2,8 @@ import room1 from "./images/details-1.jpeg";
 import room2 from "./images/details-2.jpeg";
 import room3 from "./images/details-3.jpeg";
 import room4 from "./images/details-4.jpeg";
+import room5 from "./images/details-5.jpeg";
+
 import img1 from "./images/room-1.jpeg";
 import img2 from "./images/room-2.jpeg";
 import img3 from "./images/room-3.jpeg";
@@ -67,6 +69,13 @@ export default [
           fields: {
             file: {
               url: room4
+            }
+          }
+        },
+        {
+          fields: {
+            file: {
+              url: room5
             }
           }
         }

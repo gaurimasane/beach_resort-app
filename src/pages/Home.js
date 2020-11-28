@@ -5,13 +5,9 @@ import Beach from "../components/Beach";
 import FeaturedRooms from "../components/FeaturedRooms";
 const home = () => {
   return (
-    <>
-      <Hero>
-       
-      </Hero>
-      <FeaturedRooms />
-    </>
-  );
+  
+ <FeaturedRooms />
+);
 };
 
 export default home;
